@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/linearLayoutVipActionBar"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/purple_700"
+    android:orientation="horizontal"
+    tools:targetApi="lollipop">
+
+    <ImageView
+        android:id="@+id/customBackImage"
+        android:layout_width="0dp"
+        android:layout_height="?actionBarSize"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1"
+        android:padding="9dp"
+        android:src="@drawable/ic_back" />
+
+    <TextView
+        android:fontFamily="sans-serif-black"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_weight="9"
+        android:gravity="left|center"
+        android:text="@string/vip_tips"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+
+</LinearLayout>

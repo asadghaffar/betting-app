@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Betting Tips</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="exit">Exit</string>
+    <string name="exit_app_text">Are you sure to exit?</string>
+    <string name="powerd_by_fcodex_info_fcodex_com">Powered By Fcodex</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="team_name">Melboure Vicory (AU)</string>
+    <string name="date">17 Septermber 2020</string>
+    <string name="free_tips">Free Tips</string>
+    <string name="vip_tips">Vip Tips         </string>
+    <string name="none">None</string>
+</resources>
